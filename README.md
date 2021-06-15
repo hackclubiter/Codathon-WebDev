@@ -1,1 +1,1 @@
-# Codathon-WebDev
+# 7 Days of Web Development
