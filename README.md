@@ -1,1 +1,1 @@
-# 7 Days of Web Development
+<img src="./img/hero.png">
