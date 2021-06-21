@@ -5,9 +5,9 @@
 7 days of web development is going to the part of Code Marathon organized by hack Club ITER. It is a marathon which will focus on self-learning and producing a project at the final day.
 
 ## Quick Links:
-1. []()
-2. []()
-3. []()
+1. [HTML by w3schools](https://www.w3schools.com/html/)
+2. [CSS by css-tricks](https://css-tricks.com/)
+3. [JavaScript by freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 4. []()
 5. []()
 
@@ -24,7 +24,20 @@
 - Day 7 : Final Project
 
 ## Day-wise Assignment
-1. Day-1 : 
+1. Day-1 : HTML tags, comments, forms, attributes
+   • `<html>`
+   • `<head>`
+   • `<body>`
+   • `<script>`
+   • `<style>`
+   • `<!-- -->`
+   • `<h1> - <h6>`
+   • `<header>`
+   • `<footer>`
+   • `<summary>`
+   • `<p>`, `<a>`, `<li>`
+   • `<textarea>`
+
 2. Day-2 :
 3. Day-3 :
 4. Day-4 :
