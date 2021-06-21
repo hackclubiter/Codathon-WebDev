@@ -1,4 +1,7 @@
-# 7 Days of Web Development
+
+<img src="./img/hero.png">
+
+
 7 days of web development is going to the part of Code Marathon organized by hack Club ITER. It is a marathon which will focus on self-learning and producing a project at the final day.
 
 ## Quick Links:
@@ -56,8 +59,4 @@
 -
 -
 -
-
-
-
-
 
