@@ -24,20 +24,7 @@
 - Day 7 : Final Project
 
 ## Day-wise Assignment
-1. Day-1 : HTML tags, comments, forms, attributes
-   • `<html>`
-   • `<head>`
-   • `<body>`
-   • `<script>`
-   • `<style>`
-   • `<!-- -->`
-   • `<h1> - <h6>`
-   • `<header>`
-   • `<footer>`
-   • `<summary>`
-   • `<p>`, `<a>`, `<li>`
-   • `<textarea>`
-
+1. Day-1 : 
 2. Day-2 :
 3. Day-3 :
 4. Day-4 :
