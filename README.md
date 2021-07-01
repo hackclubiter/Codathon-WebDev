@@ -2,52 +2,60 @@
 <img src="./img/hero.png">
 
 
-7 days of web development is going to the part of Code Marathon organized by hack Club ITER. It is a marathon which will focus on self-learning and producing a project at the final day.
+7 days of Web Development is a part of the part of Code Marathon organized by hack Club ITER. It is a marathon which will focus on self-learning and producing a project at the final day.
 
 ## Quick Links:
 1. [HTML by w3schools](https://www.w3schools.com/html/)
 2. [CSS by css-tricks](https://css-tricks.com/)
 3. [JavaScript by freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-4. []()
-5. []()
 
 ## About
+Welcome guys to this 7 days of Web - Development ❗❗ 
 
+It is an initiative for people to learn how to build web applications, irrespective of their current level of expertise. 
+
+The main objective behind this program is to provide you with access to top-notch content at zero cost. ✨
+
+It'll be a week long intensive and hardcore learning marathon. We have designed beginner-friendly lessons covering up HTML, CSS and JavaScript. The topics have been distributed over the course of 6 days. And then for the last and final day of this event, all the participants will have to submit a project which they must make within that week only. No previously prepared project will be accepted. Furthermore, there are quizzes to bec onducted at the end of each day to help you sharpen your basics in a fun and riveting way.
+
+So see you at the end of this week!!
 
 ## Days-wise plan
-- Day-1 : HTML
-- Day-2 : CSS
-- Day-3 : Javascript
-- Day-4 : Advance Javascript
-- Day-5: Basic Project 1
-- Day-6: Basic Project 2
+- Day-1 : HTML Part - 1
+- Day-2 : HTML Part - 2
+- Day-3 : CSS Part - 1
+- Day-4 : CSS Part - 2
+- Day-5 : JS Part - 1
+- Day-6 : JS Part - 2
 - Day 7 : Final Project
 
 ## Day-wise Assignment
-1. Day-1 : 
-2. Day-2 :
-3. Day-3 :
-4. Day-4 :
-5. Day-5 :
-6. Day-6 :
-7. Day-7 : Final Project
+1. [Day-1](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-1/README.md) 
+2. [Day-2](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-2/README.md)
+3. [Day-3](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-3/README.md) 
+4. [Day-4](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-4/README.md)
+5. [Day-5](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-5/README.md)
+6. [Day-6](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-6/README.md)
+7. [Day-7](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-7/README.md)
 
 ## Coordinators
 1. Saswat Mohanty
-2. Ankit Raj Biswal
-3. Rahul Anand Sahu
-4. Sanket Sanjeeb Pattanaik
+2. Sanket Sanjeeb Pattanaik 
+3. Ankit Raj Biswal
+4. Rahul Anand Sahu
 
 ## FAQs
--
--
+- **Are there any prerequisite for this event?**
+    There are no prerequisities for the event. Just your inquisitiveness and eagerness to learn.
+
+- **
 -
 -
 
 ## Contact
-- Mail:
-- Telegram Group:
-- Instagram DM:
+- Mail:  
+- Telegram Group: 
+- Instagram DM: 
 
 ## Perks:
 - Certificate of Appreciation to top 3 performers
