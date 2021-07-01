@@ -46,6 +46,7 @@ So see you at the end of this week!!
 
 ## FAQs
 - **Are there any prerequisite for this event?**
+
 There are no prerequisities for the event. Just your inquisitiveness and eagerness to learn.
 
 - **
