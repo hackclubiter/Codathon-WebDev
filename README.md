@@ -30,13 +30,13 @@ So see you at the end of this week!!
 - Day 7 : Final Project
 
 ## Day-wise Assignment
-1. [Day-1](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-1/README.md) 
-2. [Day-2](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-2/README.md)
-3. [Day-3](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-3/README.md) 
-4. [Day-4](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-4/README.md)
-5. [Day-5](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-5/README.md)
-6. [Day-6](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-6/README.md)
-7. [Day-7](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-7/README.md)
+- [Day-1](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-1/README.md) 
+- [Day-2](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-2/README.md)
+- [Day-3](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-3/README.md) 
+- [Day-4](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-4/README.md)
+- [Day-5](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-5/README.md)
+- [Day-6](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-6/README.md)
+- [Day-7](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-7/README.md)
 
 ## Coordinators
 1. Saswat Mohanty
