@@ -57,9 +57,9 @@ So see you at the end of this week. 👍
 
 
 ## Contact
-- Mail: [hackclubiter@gmail.com]
-- Telegram Group: [https://t.me/joinchat/TBY1nvuLJKJVeY5y](https://t.me/joinchat/TBY1nvuLJKJVeY5y)
-- Instagram DM: [https://www.instagram.com/hackclubiter/](https://www.instagram.com/hackclubiter/)
+- [Mail](mailto:hackclubiter@gmail.com)
+- [Telegram Group](https://t.me/joinchat/TBY1nvuLJKJVeY5y)
+- [Instagram DM](https://www.instagram.com/hackclubiter/)
 
 ## Perks:
 - Certificate of Appreciation to top 3 performers
