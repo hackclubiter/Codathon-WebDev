@@ -10,15 +10,21 @@
 3. [JavaScript by freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## About
-Welcome guys to this 7 days of Web - Development ❗❗ 
+Welcome to this 7 days of Web - Development👋
 
-It is an initiative for people to learn how to build web applications, irrespective of their current level of expertise. 
+It is an initiative for people to learn how to build web applications, irrespective of their current level of expertise. ✌ 
 
 The main objective behind this program is to provide you with access to top-notch content at zero cost. ✨
 
-It'll be a week long intensive and hardcore learning marathon. We have designed beginner-friendly lessons covering up HTML, CSS and JavaScript. The topics have been distributed over the course of 6 days. And then for the last and final day of this event, all the participants will have to submit a project which they must make within that week only. No previously prepared project will be accepted. Furthermore, there are quizzes to bec onducted at the end of each day to help you sharpen your basics in a fun and riveting way.
+It'll be a week long intensive and hardcore learning marathon. 
 
-So see you at the end of this week!!
+We have designed beginner-friendly lessons covering up HTML, CSS and JavaScript. The topics have been distributed over the course of 6 days. 
+
+And then for the last and final day of this event, all the participants will have to submit a project which they must make within that week only. No previously prepared project will be accepted. 
+
+Furthermore, there are quizzes to be conducted at the end of each day to help you sharpen your basics in a fun and riveting way. 💛
+
+So see you at the end of this week. 👍
 
 ## Days-wise plan
 - Day-1 : HTML Part - 1
@@ -49,14 +55,11 @@ So see you at the end of this week!!
 
     There are no prerequisities for the event. Just your inquisitiveness and eagerness to learn.
 
-- **
--
--
 
 ## Contact
-- Mail:  
-- Telegram Group: 
-- Instagram DM: 
+- Mail: [hackclubiter@gmail.com](hackclubiter@gmail.com)
+- Telegram Group: [https://t.me/joinchat/TBY1nvuLJKJVeY5y](https://t.me/joinchat/TBY1nvuLJKJVeY5y)
+- Instagram DM: [https://www.instagram.com/hackclubiter/](https://www.instagram.com/hackclubiter/)
 
 ## Perks:
 - Certificate of Appreciation to top 3 performers
