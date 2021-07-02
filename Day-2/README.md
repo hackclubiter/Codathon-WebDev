@@ -22,11 +22,12 @@ We will be working with APIs in HTML. API is one of those things which you will 
 > 1. [Plug-Ins in HTML](https://www.w3schools.com/html/html_object.asp)
 > 2. [Playing with youtube videos in HTML](https://www.w3schools.com/html/html_youtube.asp)
 > 3. HTML APIs
-    > - [Geolocation](https://www.w3schools.com/html/html5_geolocation.asp)
-    > - [Drag and Drop](https://www.w3schools.com/html/html5_draganddrop.asp)
-    > - [Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
-    > - [Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
-    > - [SSE API](https://www.w3schools.com/html/html5_serversentevents.asp)
-    > - [More Such APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+> > - [Geolocation](https://www.w3schools.com/html/html5_geolocation.asp)
+> > - [Drag and Drop](https://www.w3schools.com/html/html5_draganddrop.asp)
+> > - [Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
+> > - [Web Workers](https://www.w3schools.com/html/html5_webworkers.asp)
+> > - [SSE API](https://www.w3schools.com/html/html5_serversentevents.asp)
+> > - [More Such APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 This concludes the Day 02 of our 7 Days of Web Dev. So with this we have completed HTML. And from tomorrow we are going to start with CSS.
