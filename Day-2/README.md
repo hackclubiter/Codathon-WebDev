@@ -22,7 +22,6 @@ We will be working with APIs in HTML. API is one of those things which you will 
 > 1. [Plug-Ins in HTML](https://www.w3schools.com/html/html_object.asp)
 > 2. [Playing with youtube videos in HTML](https://www.w3schools.com/html/html_youtube.asp)
 > 3. HTML APIs
-
 > > - [Geolocation](https://www.w3schools.com/html/html5_geolocation.asp)
 > > - [Drag and Drop](https://www.w3schools.com/html/html5_draganddrop.asp)
 > > - [Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
