@@ -61,12 +61,6 @@ So see you at the end of this week. 👍
 - Certificate of Participation to all participants who will successfully submit their assignment and project.
 - Bagful of knowledge
 
-## Code of Conduct
--
--
--
--
-
 ## Contact
 - [Mail](mailto:hackclubiter@gmail.com)
 - [Telegram Group](https://t.me/joinchat/TBY1nvuLJKJVeY5y)
