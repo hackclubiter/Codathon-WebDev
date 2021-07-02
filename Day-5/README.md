@@ -22,11 +22,11 @@ Today we will be starting with our journey in JavaScript. We will be starting wi
 > 11. [How functions work in JS?](https://www.youtube.com/watch?v=gSDncyuGw0s)
 > 12. [Functions in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 > 13. [Arrays in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
-> > - [Video](https://drive.google.com/drive/u/2/folders/1gSmSFfAg_8vvmA7ALxIL9JWJnzbQuhbd)
+> > - [Video](https://drive.google.com/drive/u/2/folders/1gSmSFfAg_8vvmA7ALxIL9JWJnzbQuhbd) *(Arrays)*
 > 14. [Classes in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-> > - [Video](https://youtu.be/T-HGdc8L-7w)
+> > - [Video](https://youtu.be/T-HGdc8L-7w) *(Classes)*
 > 15. [Objects in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-> > - [Video](https://youtu.be/HPddGlSIV3M)
+> > - [Video](https://youtu.be/HPddGlSIV3M) *(Objects)*
 > 16. [Scopes in JS](https://youtu.be/uH-tVP8MUs8)
 > 17. [Inheritance in JS](https://youtu.be/MfxBfRD0FVU)
 
