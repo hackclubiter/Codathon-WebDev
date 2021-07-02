@@ -21,3 +21,4 @@ We will be starting up with the basics of HTML. We will go through the formattin
 > 11. [Tables in HTML](https://www.w3schools.com/html/html_tables.asp)
 > 12. [Table tag in HTML](https://www.w3schools.com/tags/tag_table.asp)
 
+This concludes Day 01 of our 7 Days of Web Dev. We have covered quite a few topics of HTML today. Rest of the topics we'll cover tomorrow
