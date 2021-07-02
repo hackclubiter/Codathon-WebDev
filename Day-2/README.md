@@ -1,5 +1,5 @@
 # Day 02
-So yesterday we completed covered some parts of HTML and today we'll be going through the rest of them
+So yesterday we completed covered some parts of HTML and today we'll be going through the rest of them.
 
 We'll focus on debugging our HTML code effectively and work on creating forms. We will be working with Media in HTML. Media is helpful when you want to make your website or webpage look attractive by providing some interactivity to the user on the go. 
 
