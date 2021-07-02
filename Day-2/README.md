@@ -15,7 +15,7 @@ We'll focus on debugging our HTML code effectively and work on creating forms. W
 > 10. [Audio in HTML](https://www.w3schools.com/html/html5_audio.asp)
 
 ### Optional for HTML
-This sections is an optional section. This section contains some extra concepts for those who want to dig deeper into HTML
+This sections is an optional section. This section contains some extra concepts for those who want to dig deeper into HTML.
 
 We will be working with APIs in HTML. API is one of those things which you will be using many times in your project to make your code lighter and faster. 
 
