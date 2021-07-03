@@ -47,14 +47,18 @@ So see you at the end of this week. 👍
 ## Coordinators
 1. Saswat Mohanty
 2. Sanket Sanjeeb Pattanaik 
-3. Ankit Raj Biswal
-4. Rahul Anand Sahu
+
 
 ## FAQs
 - **Are there any prerequisite for this event?**
 
     There are no prerequisities for the event. Just your inquisitiveness and eagerness to learn.
+- **Is it free to attend**
 
+    Yes, it is completely free to attend.
+- **Is there any exam?**
+
+    Yes, to test your knowledge, we will conduct quiz everyday.
 
 ## Perks:
 - Certificate of Appreciation to top 3 performers
