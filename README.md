@@ -35,7 +35,7 @@ So see you at the end of this week. 👍
 - Day-6 : JS Part - 2
 - Day 7 : Final Project
 
-## Day-wise Assignment
+## Day-wise Plan Links
 - [Day-1](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-1/README.md) 
 - [Day-2](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-2/README.md)
 - [Day-3](https://github.com/hackclubiter/Codathon-WebDev/blob/main/Day-3/README.md) 
