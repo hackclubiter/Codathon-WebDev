@@ -55,4 +55,4 @@ Here we will be seeing some more advanced things in CSS like transformation, med
 > 16. [Transformations in 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)
 > 17. [CSS Sprites](https://www.udacity.com/blog/2021/07/an-easy-guide-to-css-sprites.html) 
 
-This concludes the Day 02 of our 7 Days of Web Dev. So with this we have completed CSS. And from tomorrow we are going to start with JavaScript.
+This concludes the Day 04 of our 7 Days of Web Dev. So with this we have completed CSS. And from tomorrow we are going to start with JavaScript.
