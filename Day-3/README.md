@@ -16,7 +16,7 @@ We will be starting with the basics of CSS and we will be seeing how colors, bac
 > > - [Keep a list of colors](https://colours.neilorangepeel.com/)
 > 3. Backgrounds
 > > - [Background Colors](https://www.w3schools.com/css/css_colors_hsl.asp)
-> > - [Background Images](https://www.w3schools.com/css/css_background_i)
+> > - [Background Images](https://www.w3schools.com/css/css_background_image.asp)
 > > - [Background repeat](https://www.w3schools.com/css/css_background_repeat.asp)
 > > - [Background attachment](https://www.w3schools.com/css/css_background_attachment.asp)
 > > - [shortening background](https://www.w3schools.com/css/css_background_shorthand.asp) 
