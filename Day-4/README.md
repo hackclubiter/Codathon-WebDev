@@ -53,5 +53,6 @@ Here we will be seeing some more advanced things in CSS like transformation, med
 > 14. [Gradients](https://www.w3schools.com/css/css3_gradients.asp)
 > 15. [Shadows](https://www.w3schools.com/css/css3_shadows_box.asp)
 > 16. [Transformations in 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)
+> 17. [CSS Sprites](https://www.udacity.com/blog/2021/07/an-easy-guide-to-css-sprites.html) 
 
 This concludes the Day 02 of our 7 Days of Web Dev. So with this we have completed CSS. And from tomorrow we are going to start with JavaScript.
