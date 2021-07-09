@@ -12,6 +12,10 @@ After building a particular website it is important to deploy the website proper
    
    - [Deploying your website to the web](https://youtu.be/7WdiLt1gvu8)
 
+All the details regarding how to submit your project has been mentioned in the Project Format file the link to which is given below:-
+
+   - [How to submit your project](https://github.com/hackclubiter/Codathon-WebDev/blob/main/projectformat.md)
+
 The best project will be sent to the Hack Club HQ and if they find it interesting then they'll help you develop it further under the guidance mentors and also launch the project. 
 
 But even if your project is not adjudged to be the best, if it is unique, then it will get featured in the Hack Club ITER's project section 👍
