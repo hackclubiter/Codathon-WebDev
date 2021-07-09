@@ -38,7 +38,7 @@ Your project **MUST** contain these three tech stacks ONLY. You are not allowed 
 - Your name, registration number.
 ```
 
-> If you don't know how to write a README.md then refer to this -> [REFER]()
+> If you don't know how to write a README.md then refer to this -> [REFER](https://github.com/saswatsamal/markdownbasics)
 
 
 ### Note that, no coordinator will help you during making the project. You can take the help of internet but don't copy paste other's work. If we find the same, you will be disqualified.
